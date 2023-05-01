@@ -1,4 +1,4 @@
-# AI Blog Writer with OpenAI GPT-3
+# AI Blog Writer with OpenAI GPT-3.5
 Create an AI blog writing tool with Open AI API. 
 
 # Get Started with this repo
